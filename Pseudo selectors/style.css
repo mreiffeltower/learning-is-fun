@@ -1,0 +1,39 @@
+.container {
+    border: solid black;
+    border-width: 0 2px 0 2px;
+    padding-left: 2px;
+    width: 200px;
+    margin: 0;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.two, .three {
+    border-bottom: solid 2px;
+    border-top: solid 2px;
+}
+
+.two {
+    border-bottom: solid 0px;
+}
+
+p {
+    background-color: yellow;
+    margin: 0 auto;
+  }
+
+  .one:hover {
+      background-color: brown;
+  }
+  
+  .two:hover {
+    background-color: aqua;
+}
+
+  .three:hover {
+    background-color: blue;
+  }
+
+  .four:hover {
+      background-color: blueviolet;
+  }
