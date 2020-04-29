@@ -20,10 +20,15 @@ main {
     margin-right: 20px;
   }
   
-  .orange:hover {
+  .orange {
     background: #ff6347;
   }
   
   .orange .box {
     background: #643579;
+  }
+
+  .orange:hover {
+      cursor: pointer;
+      background: white;
   }
