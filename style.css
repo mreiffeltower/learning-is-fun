@@ -1,0 +1,27 @@
+body {
+    font-size: 20px;
+    color: blue;
+    font-weight: bold;
+    
+}
+ 
+div[id] { 
+    border-bottom: solid green;
+    width: 400px;
+    color: black;
+    font-weight: bold;
+} 
+
+.container {
+    border: solid green;
+    width: 400px;
+    color: black;
+}
+
+p {
+    color: blue;
+    background-color: yellow;
+    width: 405px;
+    font-weight: lighter;
+}
+
